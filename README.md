@@ -20,7 +20,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> About me
 
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+https://user-images.githubusercontent.com/74038190/216655816-bb220cb4-e2cb-447e-b265-e90a93b41784.gif
 
 - 🎓 I'm a student at **University of Economics in Ho Chi Minh City**
 - 💻 Fullstack Developer — `Frontend` × `Backend` × `Data/AI`
