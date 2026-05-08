@@ -22,11 +22,11 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🎓 I'm a student at **VinUniversity**
+- 🎓 I'm a student at **University of Economics in Ho Chi Minh City**
 - 💻 Fullstack Developer — `Frontend` × `Backend` × `Data/AI`
 - 🚀 I love using **Software as a solution** for every `Problem`
 - 🧠 Always exploring `new tech`, `clean architecture`, and `agentic AI`
-- ⚡ Currently building **NewSky Express** (Odoo ERP) and crunching the **VinUni Datathon 2026**
+- ⚡ Currently crunching the **VinUni Datathon 2026**
 - 📫 Reach me at **lyminhthu24032005@gmail.com**
 
 <br clear="right"/>
