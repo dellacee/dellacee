@@ -26,7 +26,6 @@
 - 💻 Fullstack Developer — `Frontend` × `Backend` × `Data/AI`
 - 🚀 I love using **Software as a solution** for every `Problem`
 - 🧠 Always exploring `new tech`, `clean architecture`, and `agentic AI`
-- ⚡ Currently crunching the **VinUni Datathon 2026**
 - 📫 Reach me at **lyminhthu24032005@gmail.com**
 
 <br clear="right"/>
